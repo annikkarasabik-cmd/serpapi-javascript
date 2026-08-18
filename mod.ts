@@ -21,4 +21,6 @@ export {
   getJson,
   getJsonBySearchId,
   getLocations,
+  getMd,
+  getMdBySearchId,
 } from "./src/serpapi.ts";
